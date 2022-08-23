@@ -1,4 +1,4 @@
-### Olá galera, sou Luiz Mrtins 👋
+### Olá galera, sou Luiz Martins 👋
 
 <!--
 **LuizGRMartins/LuizGRMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
